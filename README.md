@@ -6,6 +6,7 @@
 - Есть обратная связь , через почту (PHP)
 - Мобильная верстка
 - Дизайн
+- слайдер
 
 # Website Profi-tour  [Preview](https://pythonandreevih.github.io/Website-Profi-tour/)
 - This is my first +- big job
@@ -14,5 +15,6 @@
 - There is feedback, via mail (PHP)
 - Mobile layout
 - Design
+- slider
 
 
