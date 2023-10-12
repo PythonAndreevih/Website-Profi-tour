@@ -1,5 +1,5 @@
-## Website-Profi-tour 
-## Сайт Профи-тур [Превью](https://pythonandreevih.github.io/Website-Profi-tour/)
+# Website-Profi-tour 
+# Сайт Профи-тур [Превью](https://pythonandreevih.github.io/Website-Profi-tour/)
 - Это моя первая +- большая работа
 - Бургер с навигацией 
 - Одностроничный сайт
@@ -7,7 +7,7 @@
 - Мобильная верстка
 - Дизайн
 
-## Website Profi-tour  [Preview](https://pythonandreevih.github.io/Website-Profi-tour/)
+# Website Profi-tour  [Preview](https://pythonandreevih.github.io/Website-Profi-tour/)
 - This is my first +- big job
 - Burger with navigation 
 - One-page website
